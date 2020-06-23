@@ -1,0 +1,1205 @@
+Current iteration count: 0
+Current VI/PI result - Q table's best values: 
+[1.42910577 1.81279536 2.237861   0.        ]
+[1.34132914 0.         3.58884898 5.01590953]
+[1.6616245  2.42293976 3.69506292 6.86630859]
+[1.24223358 0.         0.         0.        ]
+Current policy: 
+^  ^  ^  1
+^  X  ^  ^
+^  ^  ^  ^
+^  1 -10 10
+
+Current iteration count: 100
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         3.58884898 5.01590953]
+[1.2815445  1.42293976 3.69506292 6.86630859]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  v  v
+^  v  >  v
+>  1 -10 10
+
+Current iteration count: 200
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.96124914 0.         3.58884898 5.01590953]
+[ 1.1740245   2.04285976  3.69506292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  v  v
+v  <  v  v
+>  1 -10 10
+
+Current iteration count: 300
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         3.58884898 5.01590953]
+[ 1.2815445   1.42293976  3.69506292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  v  v
+^  v  v  v
+>  1 -10 10
+
+Current iteration count: 400
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         3.58884898 5.01590953]
+[ 1.2815445   1.42293976 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  v  v
+>  v  v  v
+>  1 -10 10
+
+Current iteration count: 500
+Current VI/PI result - Q table's best values: 
+[1.04902577 1.51873136 1.237861   0.        ]
+[0.85372914 0.         3.58884898 4.01590953]
+[ 1.2815445   1.42293976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+v  ^  ^  1
+^  X  v  ^
+^  <  <  v
+>  1 -10 10
+
+Current iteration count: 600
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.01590953]
+[ 1.2815445   2.29677899  3.70506292 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+^  <  ^  v
+<  1 -10 10
+
+Current iteration count: 700
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         3.29478498 4.01590953]
+[ 1.53546373  2.29677899  3.07306292 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+v  <  ^  v
+<  1 -10 10
+
+Current iteration count: 800
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         3.29478498 4.01590953]
+[ 0.8716245   2.04285976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+v  <  ^  v
+>  1 -10 10
+
+Current iteration count: 900
+Current VI/PI result - Q table's best values: 
+[1.25890481 1.02279536 2.0126098  0.        ]
+[1.17112818 0.         3.36359778 4.01590953]
+[ 1.3675605   2.12887576  3.07306292 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+v  >  ^  1
+>  X  ^  ^
+^  <  ^  v
+v  1 -10 10
+
+Current iteration count: 1000
+Current VI/PI result - Q table's best values: 
+[1.25890481 1.02279536 2.0126098  0.        ]
+[0.71932914 0.         2.79884898 4.01590953]
+[ 0.8716245   2.04285976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+v  >  ^  1
+v  X  ^  ^
+v  <  ^  v
+>  1 -10 10
+
+Current iteration count: 1100
+Current VI/PI result - Q table's best values: 
+[1.25890481 1.02279536 2.0126098  0.        ]
+[0.96124914 0.         2.79884898 4.01590953]
+[ 1.3675605   2.04285976  3.07306292 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+v  >  ^  1
+v  X  ^  ^
+v  <  ^  v
+>  1 -10 10
+
+Current iteration count: 1200
+Current VI/PI result - Q table's best values: 
+[1.25890481 1.02279536 1.237861   0.        ]
+[1.17112818 0.         2.79884898 4.01590953]
+[ 1.2815445   2.04285976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+v  >  >  1
+v  X  ^  ^
+^  ^  ^  v
+>  1 -10 10
+
+Current iteration count: 1300
+Current VI/PI result - Q table's best values: 
+[1.25890481 1.02279536 1.237861   0.        ]
+[0.71932914 0.         2.79884898 4.01590953]
+[ 1.0396245   1.80093976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+v  >  >  1
+>  X  ^  ^
+v  <  ^  v
+>  1 -10 10
+
+Current iteration count: 1400
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.21516837 0.         2.79884898 4.01590953]
+[ 0.8716245   1.93533976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+>  X  ^  ^
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 1500
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.01590953]
+[ 0.8716245   1.80093976 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  ^
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 1600
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.11607794 0.         2.79884898 4.01590953]
+[ 1.2815445   1.93533976  3.07306292 -3.13369141]
+[0.86215358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  ^
+>  >  ^  v
+>  1 -10 10
+
+Current iteration count: 1700
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.71932914 0.         2.79884898 4.01590953]
+[ 1.1740245   1.42293976  3.07306292 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  ^
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 1800
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.71932914 0.         2.79884898 4.01590953]
+[ 0.8716245   1.42293976  3.20746292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  ^
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 1900
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         3.10124898 4.01590953]
+[ 1.0396245   1.42293976  3.20746292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+<  v  ^  v
+>  1 -10 10
+
+Current iteration count: 2000
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.01590953]
+[ 0.8716245   1.42293976  3.31498292 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+v  v  ^  v
+^  1 -10 10
+
+Current iteration count: 2100
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.32519536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.01590953]
+[ 1.1740245   1.42293976  3.31498292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 2200
+Current VI/PI result - Q table's best values: 
+[1.04902577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.01590953]
+[ 1.2815445   2.12887576  3.31498292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  ^  1
+^  X  ^  ^
+v  ^  ^  v
+>  1 -10 10
+
+Current iteration count: 2300
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.01590953]
+[ 0.8716245   2.12887576  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+v  >  ^  v
+>  1 -10 10
+
+Current iteration count: 2400
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.615861   0.        ]
+[0.85372914 0.         2.79884898 4.01590953]
+[ 1.2815445   1.93533976  3.31498292 -3.13369141]
+[0.75463358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+^  >  ^  v
+>  1 -10 10
+
+Current iteration count: 2500
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         3.10124898 4.01590953]
+[ 1.4363733   2.12887576  3.31498292 -3.13369141]
+[0.75463358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+^  >  ^  v
+>  1 -10 10
+
+Current iteration count: 2600
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         3.10124898 4.01590953]
+[ 1.2815445   2.12887576  3.31498292 -3.13369141]
+[0.75463358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+v  >  ^  v
+>  1 -10 10
+
+Current iteration count: 2700
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         2.79884898 4.01590953]
+[ 1.3675605   1.42293976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+>  v  ^  v
+>  1 -10 10
+
+Current iteration count: 2800
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.01590953]
+[ 0.8716245   1.63293976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+>  ^  ^  v
+>  1 -10 10
+
+Current iteration count: 2900
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.01590953]
+[ 1.2815445   1.42293976  3.07306292 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+^  v  ^  v
+>  1 -10 10
+
+Current iteration count: 3000
+Current VI/PI result - Q table's best values: 
+[0.94150577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         2.79884898 4.01590953]
+[ 1.3675605   1.42293976  3.07306292 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+<  v  ^  v
+>  1 -10 10
+
+Current iteration count: 3100
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         2.96684898 4.01590953]
+[ 0.8716245   1.93533976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  ^
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 3200
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         2.79884898 4.22590953]
+[ 1.1740245   1.93533976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  ^
+v  >  ^  v
+>  1 -10 10
+
+Current iteration count: 3300
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         2.79884898 4.01590953]
+[ 0.8716245   1.42293976 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+>  v  >  v
+>  1 -10 10
+
+Current iteration count: 3400
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.11607794 0.         3.10124898 4.01590953]
+[ 0.8716245   1.42293976 -4.29493708 -3.13369141]
+[0.45223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+v  v  >  v
+>  1 -10 10
+
+Current iteration count: 3500
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.447861   0.        ]
+[0.85372914 0.         3.10124898 4.01590953]
+[ 0.8716245  -3.95906024 -4.29493708 -3.13369141]
+[-2.82424642  0.          0.          0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+>  >  >  v
+^  1 -10 10
+
+Current iteration count: 3600
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         3.10124898 4.01590953]
+[-1.5815595  -0.16160744 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  ^
+>  <  >  v
+>  1 -10 10
+
+Current iteration count: 3700
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.          2.79884898 -2.97409047]
+[ 0.8716245   1.42293976 -1.40053708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  <
+>  v  >  v
+v  1 -10 10
+
+Current iteration count: 3800
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 1.04726514  0.          2.79884898 -2.97409047]
+[ 0.8716245   1.80093976  3.07306292 -3.13369141]
+[-2.82424642  0.          0.          0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  <
+>  v  >  v
+^  1 -10 10
+
+Current iteration count: 3900
+Current VI/PI result - Q table's best values: 
+[0.94150577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.          2.79884898 -2.97409047]
+[ 1.2815445   1.80093976  3.07306292 -3.13369141]
+[-0.39387663  0.          0.          0.        ]
+Current policy: 
+^  >  ^  1
+^  X  >  <
+>  v  >  v
+v  1 -10 10
+
+Current iteration count: 4000
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.19079536 1.237861   0.        ]
+[ 0.96124914  0.          1.00430178 -2.97409047]
+[ 0.8716245   1.63293976 -4.29493708 -3.13369141]
+[0.73972899 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+>  X  >  <
+>  ^  >  v
+v  1 -10 10
+
+Current iteration count: 4100
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.96124914 0.         2.55973845 3.71702136]
+[-0.9229227  -3.95906024 -2.68693708 -3.13369141]
+[-2.00095042  0.          0.          0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  <
+<  >  >  v
+^  1 -10 10
+
+Current iteration count: 4200
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.71932914  0.          2.79884898 -0.07969047]
+[ 1.02099376 -1.64354024 -1.40053708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  <
+v  v  >  v
+>  1 -10 10
+
+Current iteration count: 4300
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.96124914  0.          2.79884898 -0.07969047]
+[ 0.8716245   1.42293976 -1.40053708 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  <
+>  v  >  v
+^  1 -10 10
+
+Current iteration count: 4400
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.71932914  0.          2.79884898 -0.07969047]
+[ 0.8716245  -3.95906024 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  <
+v  >  >  v
+>  1 -10 10
+
+Current iteration count: 4500
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.96124914  0.          2.79884898 -0.07969047]
+[ 0.8716245   1.93533976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  <
+>  >  ^  v
+>  1 -10 10
+
+Current iteration count: 4600
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.96124914  0.          1.53121122 -2.97409047]
+[ 1.1740245  -3.95906024 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  >  >
+<  >  >  v
+>  1 -10 10
+
+Current iteration count: 4700
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 0.60175079 0.        ]
+[ 0.85372914  0.         -2.79315102 -2.97409047]
+[ 1.2815445  -3.95906024  3.31498292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  >
+^  >  ^  v
+>  1 -10 10
+
+Current iteration count: 4800
+Current VI/PI result - Q table's best values: 
+[-1.81407823  1.02279536  1.237861    0.        ]
+[ 0.85372914  0.         -2.79315102 -2.97409047]
+[-0.39601326  0.365302    1.11051572 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  >
+>  >  ^  v
+>  1 -10 10
+
+Current iteration count: 4900
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.2026211 ]
+[ 1.2815445   1.42293976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  >
+^  v  ^  v
+>  1 -10 10
+
+Current iteration count: 5000
+Current VI/PI result - Q table's best values: 
+[1.20385457 1.02279536 1.237861   0.        ]
+[1.04726514 0.         2.79884898 4.37527879]
+[ 1.2815445   1.42293976  3.31498292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  >  >
+>  v  ^  v
+>  1 -10 10
+
+Current iteration count: 5100
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         2.79884898 4.37527879]
+[ 1.2815445   1.42293976  3.31498292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+>  X  >  >
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 5200
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.71932914 0.         2.79884898 4.37527879]
+[ 0.8716245   1.42293976  3.31498292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  >  >
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 5300
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.37527879]
+[ 0.8716245   1.42293976  3.31498292 -3.13369141]
+[0.75463358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  >  >
+>  v  ^  v
+v  1 -10 10
+
+Current iteration count: 5400
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.16502326 0.         3.10124898 4.01590953]
+[-2.4048555  -2.67266024 -4.29493708 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  v  <
+>  ^  ^  v
+^  1 -10 10
+
+Current iteration count: 5500
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.52804071  0.         -0.47763102 -2.97409047]
+[ 0.63251397 -1.64354024 -1.40053708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  >  v
+>  >  ^  v
+>  1 -10 10
+
+Current iteration count: 5600
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 1.04726514  0.          2.79884898 -0.07969047]
+[ 1.35802156  2.12887576  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  <
+^  >  ^  >
+>  1 -10 10
+
+Current iteration count: 5700
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 1.04726514  0.         -0.47763102  0.94942953]
+[ 0.8716245   1.93533976 -1.40053708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  v
+v  >  ^  >
+>  1 -10 10
+
+Current iteration count: 5800
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         2.79884898 1.77272553]
+[0.36273633 0.365302   1.11051572 0.48430859]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  v
+v  >  ^  ^
+>  1 -10 10
+
+Current iteration count: 5900
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         1.00430178 1.77272553]
+[ 1.26962083  1.93533976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  >  <
+>  ^  ^  >
+>  1 -10 10
+
+Current iteration count: 6000
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[1.04726514 0.         2.94821824 4.51340494]
+[ 1.35802156  2.03093609  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  <  v
+>  >  ^  >
+>  1 -10 10
+
+Current iteration count: 6100
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.51340494]
+[ 1.2815445   2.19005741  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+v  X  ^  <
+^  ^  ^  >
+>  1 -10 10
+
+Current iteration count: 6200
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.51340494]
+[ 1.2815445   1.93533976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  <
+>  >  ^  >
+>  1 -10 10
+
+Current iteration count: 6300
+Current VI/PI result - Q table's best values: 
+[ 0.80710577  1.32519536 -1.005323    0.        ]
+[0.85372914 0.         1.53121122 2.43136233]
+[1.2815445  1.93533976 3.31498292 4.28176139]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  v
+>  >  >  ^
+>  1 -10 10
+
+Current iteration count: 6400
+Current VI/PI result - Q table's best values: 
+[1.20385457 1.51873136 1.615861   0.        ]
+[0.04244097 0.         2.79884898 4.01590953]
+[0.36273633 2.04285976 3.40099892 0.48430859]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  v  1
+<  X  >  ^
+^  <  ^  v
+>  1 -10 10
+
+Current iteration count: 6500
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.39390953]
+[0.8716245  2.2527388  3.52486196 0.48430859]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+v  >  ^  v
+^  1 -10 10
+
+Current iteration count: 6600
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[0.85372914 0.         2.79884898 4.39390953]
+[1.1740245  1.80093976 3.31498292 0.48430859]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  ^
+>  v  ^  v
+>  1 -10 10
+
+Current iteration count: 6700
+Current VI/PI result - Q table's best values: 
+[0.94150577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.          2.79884898 -0.07969047]
+[ 1.2815445   1.93533976  3.07306292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  >
+>  <  ^  v
+>  1 -10 10
+
+Current iteration count: 6800
+Current VI/PI result - Q table's best values: 
+[-0.62853199  1.02279536  1.615861    0.        ]
+[ 0.96124914  0.          3.10124898 -0.07969047]
+[ 1.2815445  -0.16160744  3.31498292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  v
+^  >  ^  v
+>  1 -10 10
+
+Current iteration count: 6900
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.96124914  0.          2.79884898 -0.07969047]
+[ 1.2815445   1.42293976  3.31498292 -3.13369141]
+[0.86215358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  v
+^  v  ^  v
+>  1 -10 10
+
+Current iteration count: 7000
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.          3.20876898 -0.07969047]
+[ 0.8716245   1.42293976  3.31498292 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  v
+>  v  ^  v
+>  1 -10 10
+
+Current iteration count: 7100
+Current VI/PI result - Q table's best values: 
+[1.04902577 1.02279536 1.237861   0.        ]
+[ 0.96124914  0.          3.29478498 -0.07969047]
+[ 0.8716245   1.42293976 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  ^  v
+>  v  ^  v
+>  1 -10 10
+
+Current iteration count: 7200
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.71932914  0.          3.29478498 -0.07969047]
+[ 0.8716245   1.42293976 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+<  X  ^  v
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 7300
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.          3.29478498 -0.07969047]
+[ 1.2815445  -3.95906024 -4.29493708 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+>  X  ^  v
+^  >  ^  v
+>  1 -10 10
+
+Current iteration count: 7400
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 2.0126098  0.        ]
+[ 0.96124914  0.         -0.47763102 -2.97409047]
+[ 0.8716245  -3.95906024 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  ^  1
+<  X  >  v
+v  >  ^  v
+>  1 -10 10
+
+Current iteration count: 7500
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 1.04726514  0.         -2.79315102 -2.97409047]
+[-3.4339755  -1.64354024 -1.40053708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  v  >  1
+<  X  >  v
+v  <  ^  v
+>  1 -10 10
+
+Current iteration count: 7600
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 0.71932914  0.         -2.79315102 -2.97409047]
+[ 0.8716245  -3.95906024 -4.29493708 -3.13369141]
+[0.45223358 0.         0.         0.        ]
+Current policy: 
+>  v  >  1
+v  X  >  v
+v  v  ^  v
+^  1 -10 10
+
+Current iteration count: 7700
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 0.96124914  0.         -2.79315102 -2.97409047]
+[ 0.8716245   1.42293976 -1.40053708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  v  >  1
+v  X  >  v
+v  >  ^  v
+>  1 -10 10
+
+Current iteration count: 7800
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 0.96124914  0.         -2.79315102 -2.97409047]
+[ 0.8716245  -0.16160744 -1.40053708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  v  >  1
+v  X  >  v
+v  >  ^  v
+>  1 -10 10
+
+Current iteration count: 7900
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 0.71932914  0.         -2.79315102 -2.97409047]
+[-3.4339755  -3.95906024 -1.40053708 -1.12369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  v  >  1
+v  X  >  v
+>  >  ^  >
+v  1 -10 10
+
+Current iteration count: 8000
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 0.71932914  0.          1.53121122 -2.97409047]
+[ 0.84833607  1.39382923 -1.40053708 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  v  >  1
+v  X  >  v
+>  <  ^  v
+^  1 -10 10
+
+Current iteration count: 8100
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 1.04726514  0.         -2.79315102 -2.97409047]
+[-0.39601326 -0.16160744 -1.40053708 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  v  >  1
+v  X  >  v
+>  >  ^  v
+^  1 -10 10
+
+Current iteration count: 8200
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 0.71932914  0.         -0.47763102  1.77272553]
+[ 0.8716245  -1.64354024 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  v  >  1
+<  X  v  v
+v  >  >  v
+>  1 -10 10
+
+Current iteration count: 8300
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 0.71932914  0.         -2.79315102 -2.97409047]
+[ 0.8716245   1.80093976  1.63742516 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  v  >  1
+<  X  >  v
+v  v  ^  v
+>  1 -10 10
+
+Current iteration count: 8400
+Current VI/PI result - Q table's best values: 
+[1.13504177 1.51873136 1.237861   0.        ]
+[ 0.96124914  0.         -2.79315102 -2.97409047]
+[ 0.8716245   1.42293976 -1.40053708 -3.13369141]
+[-1.34231362  0.          0.          0.        ]
+Current policy: 
+>  v  >  1
+v  X  >  v
+>  v  ^  v
+^  1 -10 10
+
+Current iteration count: 8500
+Current VI/PI result - Q table's best values: 
+[ 1.25279989  1.02279536 -2.857739    0.        ]
+[ 1.21516837  0.         -2.79315102 -2.97409047]
+[ 1.53546373  1.42293976 -1.40053708 -3.13369141]
+[1.01698238 0.         0.         0.        ]
+Current policy: 
+^  >  >  1
+^  X  >  v
+^  v  ^  v
+>  1 -10 10
+
+Current iteration count: 8600
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.         -2.79315102 -2.97409047]
+[ 1.2815445   1.42293976 -1.40053708 -3.13369141]
+[1.01698238 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  v
+^  v  ^  v
+>  1 -10 10
+
+Current iteration count: 8700
+Current VI/PI result - Q table's best values: 
+[-0.62853199  0.78368483  1.237861    0.        ]
+[-0.29478107  0.         -2.79315102 -2.97409047]
+[ 0.8716245  -1.64354024  0.45187892 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  <  >  1
+^  X  >  v
+v  >  ^  v
+>  1 -10 10
+
+Current iteration count: 8800
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.         -2.79315102 -2.97409047]
+[ 0.84833607 -0.16160744  0.45187892 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  v
+^  >  ^  v
+>  1 -10 10
+
+Current iteration count: 8900
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.         -2.79315102 -2.97409047]
+[-1.5815595  -1.64354024 -1.40053708 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+>  ^  >  1
+^  X  >  v
+>  >  ^  v
+>  1 -10 10
+
+Current iteration count: 9000
+Current VI/PI result - Q table's best values: 
+[0.94150577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.         -2.79315102 -0.07969047]
+[ 1.1740245  -1.64354024 -2.68693708 -3.13369141]
+[0.62023358 0.         0.         0.        ]
+Current policy: 
+<  ^  >  1
+^  X  >  v
+v  >  >  v
+>  1 -10 10
+
+Current iteration count: 9100
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.         -2.79315102 -0.07969047]
+[ 0.8716245  -3.95906024 -1.40053708 -3.13369141]
+[0.45223358 0.         0.         0.        ]
+Current policy: 
+>  ^  >  1
+^  X  >  v
+v  >  ^  v
+>  1 -10 10
+
+Current iteration count: 9200
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.          1.00430178 -2.97409047]
+[-3.4339755  -3.95906024  0.45187892  0.48430859]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  ^  >  1
+^  X  >  v
+v  >  <  <
+>  1 -10 10
+
+Current iteration count: 9300
+Current VI/PI result - Q table's best values: 
+[0.80710577 0.78368483 1.237861   0.        ]
+[ 0.85372914  0.          1.00430178 -2.97409047]
+[ 1.1740245   1.12405159  2.39617475 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  >  v
+v  >  ^  v
+>  1 -10 10
+
+Current iteration count: 9400
+Current VI/PI result - Q table's best values: 
+[0.78847503 1.02279536 0.18022324 0.        ]
+[ 0.7006984   0.         -2.79315102 -2.97409047]
+[-3.4339755  -0.16160744 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  v  1
+^  X  >  v
+>  >  ^  v
+>  1 -10 10
+
+Current iteration count: 9500
+Current VI/PI result - Q table's best values: 
+[0.78847503 1.02279536 1.237861   0.        ]
+[ 0.7006984   0.         -2.79315102 -2.97409047]
+[ 0.02551429  0.78682955 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  v  v
+>  >  ^  v
+>  1 -10 10
+
+Current iteration count: 9600
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.          1.00430178 -2.97409047]
+[-3.4339755  -3.95906024  0.45187892 -3.13369141]
+[-1.34231362  0.          0.          0.        ]
+Current policy: 
+>  >  >  1
+^  X  v  v
+>  >  >  v
+^  1 -10 10
+
+Current iteration count: 9700
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.         -0.47763102 -2.97409047]
+[ 0.8716245  -0.16160744 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  v  v
+>  >  >  v
+>  1 -10 10
+
+Current iteration count: 9800
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.237861   0.        ]
+[ 0.85372914  0.         -2.79315102  1.77272553]
+[-3.4339755  -3.95906024 -4.29493708 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  >  1
+^  X  v  v
+>  >  >  v
+>  1 -10 10
+
+Current iteration count: 9900
+Current VI/PI result - Q table's best values: 
+[0.80710577 1.02279536 1.20875047 0.        ]
+[ 0.85372914  0.          2.55973845 -0.07969047]
+[ 0.84833607  1.42293976  2.66595239 -3.13369141]
+[0.24223358 0.         0.         0.        ]
+Current policy: 
+>  >  v  1
+^  X  v  <
+>  v  ^  >
+>  1 -10 10
+
+Current iteration count: 0
+Current Q table best values: Current iteration count: 0
+Current Q table best values: 
+Current iteration count: 0
+Current Q table best values: 
